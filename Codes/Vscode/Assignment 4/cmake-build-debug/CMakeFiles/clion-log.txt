@@ -1,0 +1,4 @@
+"D:\Okul\CSE\CLion 2021.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Okul/CSE/CLion 2021.3/bin/ninja/win/ninja.exe" -G Ninja "D:\Okul\CSE\Codes\Vscode\Assignment 4"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Okul/CSE/Codes/Vscode/Assignment 4/cmake-build-debug

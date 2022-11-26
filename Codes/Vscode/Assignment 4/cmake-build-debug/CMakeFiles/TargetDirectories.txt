@@ -1,0 +1,3 @@
+D:/Okul/CSE/Codes/Vscode/Assignment 4/cmake-build-debug/CMakeFiles/Assignment_4.dir
+D:/Okul/CSE/Codes/Vscode/Assignment 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Okul/CSE/Codes/Vscode/Assignment 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
