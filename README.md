@@ -1,4 +1,9 @@
 # miscellaneous
->Lots of codes for something i don't know
+H1 Lots of lines of code
 
-> I have *no idea* how many of them works or what they do
+H2 I have *no idea* how many of them works or what they do
+
+H2 There might be something useful idk
+
+
+
