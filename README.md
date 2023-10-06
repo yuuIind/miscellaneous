@@ -3,7 +3,7 @@
 
 - **I have *no idea* how many of them works or what they do**
 
-- **There might be something useful idk**
+- **There might be something useful, i have genuinely no idea**
 
 
 
